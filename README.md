@@ -50,3 +50,4 @@ terraform apply
 *connection to bastion from internet is allowed by default*
 *connection from bastion to all subnets in VNet is allowed by default*
 *NSGs should be appropriately configured*
+*there might be dependency issues faced while destroying, re-triggering destroy will proceed"
